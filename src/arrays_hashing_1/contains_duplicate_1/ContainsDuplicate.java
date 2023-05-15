@@ -2,7 +2,8 @@ package arrays_hashing_1.contains_duplicate_1;
 
 /**
  * <a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</a>
- * Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+ * Given an integer array nums, return true if any value appears at least twice in the array,
+ * and return false if every element is distinct.
  * Example 1:
  * Input: nums = [1,2,3,1]
  * Output: true
@@ -32,8 +33,6 @@ public class ContainsDuplicate {
 
     /**
      * <a href="https://leetcode.com/problems/contains-duplicate/submissions/948395586/">submission</a>
-     * Runtime 8 ms (Beats 99.19%)
-     * Memory 55.8 MB (Beats 82.35%)
      */
     private static boolean containsDuplicate(int[] nums) {
         java.util.Set<Integer> set = new java.util.HashSet<>();
