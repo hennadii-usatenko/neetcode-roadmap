@@ -1,4 +1,4 @@
-package arrays_hashing_1.contains_duplicate_1;
+package a_arrays_hashing_1.a_contains_duplicate_1;
 
 /**
  * <a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</a>

@@ -1,4 +1,4 @@
-package arrays_hashing_1.valid_anagram_2;
+package a_arrays_hashing_1.b_valid_anagram_2;
 
 /**
  * <a href="https://leetcode.com/problems/valid-anagram/">242. Valid Anagram</a>
